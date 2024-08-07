@@ -1,0 +1,10 @@
+この事前課題はGoogle Colaboratoryを事前に準備して頂き、演習をスムーズに行うためのものです。
+
+
+(1) Googleアカウントをお持ちでない方は「第2節Googleアカウント作成方法」を参照してアカウントを作成し、(2)に進んでください。
+(2) Googleアカウントをお持ちで初めてGoogle Colaboratoryを使用する方は、「第3節 Google Colaboratoryの導入方法」を参照して導入し、(3)に進んでください。
+(3) Googleアカウントをお持ちでGoogle Colaboratoryを導入できている方は、「第4節 事前課題用notebook」の添付資料をダウンロードして、Google Colaboratoryで開き、次に進んでください。
+
+
+「事前課題用notebook」の添付資料を、Google Colaboratoryで実行ボタンを押して実行し、実行結果として表示された「日本語の文」を、次の課題「事前課題提出」にコピー＆ペーストで回答してください。「採点」で「合格です」と表示されれば、事前課題は終了です。
+
